@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rafael Acosta</h1>
-<h4 align="center">Versatile software engineer, passionate team worker and thorough coder from Spain</h4>
+<h4 align="center">Senior Software Engineer from Spain.</br>I'm a versatile engineer, a passionate team worker and a thorough coder.</h4>
 
 <p align="center">   
    <a href="mailto:rafaco@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail address" /></a>
