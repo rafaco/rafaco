@@ -1,31 +1,21 @@
 <h1 align="center">Hi 👋, I'm Rafael Acosta</h1>
-<h3 align="center">Versatile software engineer, passionate team worker and thorough coder from Spain</h3>
+<h4 align="center">Versatile software engineer, passionate team worker and thorough coder from Spain</h4>
 
-<p align="center">
-<a href="mailto:rafaco@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="rafaco" height="30" width="30" />
-</a>
-<a href="https://linkedin.com/in/rafaco" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rafaco" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/rafaco" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="rafaco" height="30" width="30" /></a>
-<a href="https://twitter.com/rafaco_es" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rafaco_es" height="30" width="30" />
-<a href="https://dev.to/rafaco" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="rafaco" height="30" width="30" /></a>
+<p align="center">   
+<a href="mailto:rafaco@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail address" /></a>
+<a href="https://linkedin.com/in/rafaco" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin profile" /></a>
 </p>
 
 #### Can I help you?
+- :necktie: I'm not currently working, but **searching for job at Madrid**. [LinkedIn profile](https://linkedin.com/in/rafaco)
 
 - :nerd_face: I'm currently developing [InAppDevTools](https://github.com/rafaco/InAppDevTools)
 
-- 💬 Ask me about **software development methodologies, mobile apps and webs**
-
-- 📫 Reach me at [**rafaco@gmail.com**](mailto:rafaco@gmail.com)
-
-
-#### Support me
-
-- :necktie: I'm searching for job at Madrid, [hire me!](https://linkedin.com/in/rafaco)
-
 - :family: I’m looking for collaborators on [InAppDevTools](https://github.com/rafaco/InAppDevTools), [join us!](https://github.com/rafaco/InAppDevTools#contributing-and-building-instructions)
 
-- :beers: Next one is on you, [cheers!](https://github.com/rafaco)
+- 💬 Ask me about **Android libraries, mobile apps and webs**
+
+- 📫 Reach me at [**rafaco@gmail.com**](mailto:rafaco@gmail.com)
 
 
 <p align="center">
