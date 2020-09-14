@@ -19,7 +19,7 @@
 
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=rafaco&show_icons=true" alt="rafaco" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaco&layout=compact&hide=html" alt="rafaco" />
+   <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaco&layout=compact&hide=html" alt="rafaco" /> -->
 </p>
 
 <p align="center">
