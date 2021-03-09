@@ -6,9 +6,9 @@
    <a href="https://linkedin.com/in/rafaco" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin profile" /></a>
 </p>
 
-- :necktie: I'm not currently working, but [**searching for job at Madrid**](https://linkedin.com/in/rafaco).
+- :necktie: I'm currently working at [**Astrata**](https://www.astrata.eu/) (full time).
 
-- :nerd_face: I'm currently developing [**InAppDevTools**](https://github.com/rafaco/InAppDevTools).
+- :nerd_face: I'm currently developing [**InAppDevTools**](https://github.com/rafaco/InAppDevTools) (spare time).
 
 - :family: I’m looking for collaborators on [**InAppDevTools**](https://github.com/rafaco/InAppDevTools).
 
